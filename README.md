@@ -1,3 +1,5 @@
 # C++ cloudevent builder
-- intended to be used with microcontroller
-- can be used as an arduino library
+
+[Usage examples](https://github.com/cherattk/cloudeventbuilder_examples)
+[what is cloudevents](https://github.com/cloudevents/spec)
+
